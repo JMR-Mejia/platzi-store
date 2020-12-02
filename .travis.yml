@@ -15,6 +15,7 @@ script:
   - yarn build
 
 notifications:
+  slack: lootvoid:uLhwu192k1JyeDTbTUxM9KbX
   email:
     recipients:
       - chucho4720013@gmail.com
